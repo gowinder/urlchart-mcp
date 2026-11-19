@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.gowinder/urlchart",
+  "title": "UrlChart",
+  "description": "Render charts as PNG images from a URL — Google Image Charts / Image-Charts compatible API.",
+  "version": "1.0.0",
+  "websiteUrl": "https://urlchart.craftstead.app",
+  "repository": {
+    "url": "https://github.com/gowinder/urlchart-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://urlchart.craftstead.app/mcp"
+    }
+  ]
+}
