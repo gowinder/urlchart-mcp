@@ -3,7 +3,7 @@
   "name": "io.github.gowinder/urlchart",
   "title": "UrlChart",
   "description": "Render charts as PNG images from a URL — Google Image Charts / Image-Charts compatible API.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://urlchart.com",
   "repository": {
     "url": "https://github.com/gowinder/urlchart-mcp",
