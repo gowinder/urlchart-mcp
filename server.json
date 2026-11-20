@@ -4,7 +4,7 @@
   "title": "UrlChart",
   "description": "Render charts as PNG images from a URL — Google Image Charts / Image-Charts compatible API.",
   "version": "1.0.0",
-  "websiteUrl": "https://urlchart.craftstead.app",
+  "websiteUrl": "https://urlchart.com",
   "repository": {
     "url": "https://github.com/gowinder/urlchart-mcp",
     "source": "github"
@@ -12,7 +12,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://urlchart.craftstead.app/mcp"
+      "url": "https://urlchart.com/mcp"
     }
   ]
 }
